@@ -8,8 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Produced%20by-%E5%8D%97%E4%BA%AC%E9%83%91%E5%92%8C%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A12022%E5%B1%8A2%E7%8F%AD-blue" alt="">
-  <img src="https://img.shields.io/badge/category-%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%93-blue" alt="">
-  <img src="https://img.shields.io/badge/main%20contributor-Quansen%20Wang-brightgreen" alt="">
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
 
