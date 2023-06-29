@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library">
-  <img width="150" src="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/blob/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png" alt="NZFLS 2022届2班" width="300">
+  <img width="150" src="https://elem.nzcae.eu.org/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
 南京郑和外国语学校2022届2班-库
